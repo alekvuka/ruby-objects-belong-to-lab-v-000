@@ -6,6 +6,6 @@ class Artist
     @name = name
     @genre = genre
   end
-    
-  
+
+
 end
