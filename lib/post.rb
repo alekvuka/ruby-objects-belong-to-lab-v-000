@@ -1,4 +1,4 @@
-class Author
+class Post
 
   attr_accessor :name, :title
   attr_reader :author
