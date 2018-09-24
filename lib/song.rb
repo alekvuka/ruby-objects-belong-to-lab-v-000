@@ -4,10 +4,10 @@ class Song
 
   def initialize(name, artist)
     @song = name
-    @artist = Artist.new(name)
+    @artist = Artist.new(artist)
   end
 
-  
+
 
 
 
